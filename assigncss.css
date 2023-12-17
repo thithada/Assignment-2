@@ -1,0 +1,37 @@
+.head{
+    font-style: italic;
+    font-size: 40px;
+    background-color: rgb(255, 192, 231);
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    
+}
+.Nevigation{
+    color: white;
+    background-color: purple;
+    height: 50px;
+    width: 1000px;
+    text-align: center;
+    vertical-align: middle;  
+    place-items: center ;
+    display: grid;
+}
+.Lorem{
+    color: white;
+    background-color: gray;
+    height: 550px;
+    width: 1000px;
+
+}
+.Footer{
+    font-size: 40px;
+    background-color: rgb(255, 192, 231);
+    height: 50px;
+    width: 1000px;
+    text-align: center;
+    place-items: center ;
+    display: grid;
+}
